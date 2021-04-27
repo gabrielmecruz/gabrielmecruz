@@ -4,8 +4,6 @@
   I'm Gabriel, APK and frontEnd development intern from Brazil.
 </p>
 
-<br/>
-
 ### About me
 
 - I’m currently working on something small android application projects
@@ -26,10 +24,12 @@
 <code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
 <code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="Kotlin"/></code>
 <code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Android"/></code>
-<br/>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmecruz&hide_border=true&show_icons=true&title_color=ddd&icon_color=ddd&text_color=fff&bg_color=222&langs_count=30&hide=c%2B%2B&layout=compact)](https://github.com/gabrielmecruz/github-readme-stats)
 
 <p align="right">
   <a href="#">
-      <img src="https://visitor-badge.glitch.me/badge?page_id=gabrielmecruz.gabrielmecruz" />
+      <img src="https://visitor-badge.glitch.me/badge?page_id=gabrielmecruz" />
    </a>
 </p>
