@@ -1,6 +1,6 @@
 ## Hello there
 <p>
-  I'm Gabriel, mobile and frontEnd developer from Brazil, 22 years old and 2 years of coding.
+  I'm Gabriel, mobile and front-end developer from Brazil, 22 years old and 2 years of coding.
 </p>
 
 - I’m currently working on something small android application projects;
