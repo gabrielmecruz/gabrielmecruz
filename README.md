@@ -1,6 +1,6 @@
 ## Hello there
 <p>
-  I'm Gabriel, mobile and front-end developer from Brazil, 23 years old and 2 years of coding.
+  I'm Gabriel, mobile and front-end developer from Brazil, 24 years old and 2 years of coding.
 </p>
 
 - I’m currently working on something small android application projects;
@@ -28,9 +28,3 @@
 ----
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmecruz&hide_border=true&show_icons=true&title_color=ddd&icon_color=ddd&text_color=fff&bg_color=222&langs_count=30&hide=c%2B%2B&layout=compact)](https://github.com/gabrielmecruz/github-readme-stats)
-
-<p align="right">
-  <a href="#">
-      <img src="https://visitor-badge.glitch.me/badge?page_id=gabrielmecruz" />
-   </a>
-</p>
