@@ -11,7 +11,7 @@
 
 **Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,angular,html,css,cs,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,angular,html,css,cs,flutter)](#)
 
 ----
 
